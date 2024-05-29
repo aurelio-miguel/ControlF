@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControlF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27339edc8e667a53b0d862baf871656a2928e997")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControlF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControlF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
