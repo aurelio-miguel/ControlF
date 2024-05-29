@@ -1,0 +1,14 @@
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\bin\Debug\net8.0\ControlF.exe
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\bin\Debug\net8.0\ControlF.deps.json
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\bin\Debug\net8.0\ControlF.runtimeconfig.json
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\bin\Debug\net8.0\ControlF.dll
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\bin\Debug\net8.0\ControlF.pdb
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\obj\Debug\net8.0\ControlF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\obj\Debug\net8.0\ControlF.AssemblyInfoInputs.cache
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\obj\Debug\net8.0\ControlF.AssemblyInfo.cs
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\obj\Debug\net8.0\ControlF.csproj.CoreCompileInputs.cache
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\obj\Debug\net8.0\ControlF.dll
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\obj\Debug\net8.0\refint\ControlF.dll
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\obj\Debug\net8.0\ControlF.pdb
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\obj\Debug\net8.0\ControlF.genruntimeconfig.cache
+C:\Users\aumig\OneDrive\Desktop\workspace\C#\Praticas\ControlF\obj\Debug\net8.0\ref\ControlF.dll
